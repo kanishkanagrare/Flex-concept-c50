@@ -1,0 +1,11 @@
+H1{
+    color:blueviolet
+}
+*{
+    BORDER: SOLID
+}
+
+.HEADER{background-color: turquoise; display: flex; justify-content: center;}
+.MIDDLE{background-color: gold;font-size: medium;}
+.GRID{background-color: lightcoral; display: flex; flex-wrap: wrap; justify-content: space-evenly;}
+.ICONS{background-color: lightseagreen; display: flex;}
